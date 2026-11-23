@@ -13,7 +13,7 @@ layout: home
 
 **Dates:** 04 july - 31 july 2027
 
-**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, <br> 2 weeks on Grand Valley State University campus, USA (exact dates to be announced)
+**Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, <br> 2 weeks on Grand Valley State University campus, USA
 
 **Collaboration:** <a href="https://www.zhaw.ch/en/engineering/" target="_blank" rel="noopener noreferrer">ZHAW School of Engineering</a>
 and <a href="https://www.gvsu.edu/engineering/" target="_blank" rel="noopener noreferrer">Grand Valley State University (GVSU)</a>
@@ -38,7 +38,7 @@ year/ 4th semester after consultation with their respective programme directors.
 
 **Costs:** 2'700 - 3'200 CHF (depends on the number of participants and includes fee, boarding and flight costs)
 
-**Registration Deadline:** to be announced
+**Registration Deadline:** 31 january 2027
 
 **Application Form and Further Information:**
 
