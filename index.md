@@ -11,7 +11,7 @@ layout: home
 
 # Summer School 2027 on Data Analytics and Artificial Intelligence 
 
-**Dates:** to be announced
+**Dates:** 04 july - 31 july 2027
 
 **Location:** 2 weeks on ZHAW School of Engineering campus, Switzerland, <br> 2 weeks on Grand Valley State University campus, USA (exact dates to be announced)
 
