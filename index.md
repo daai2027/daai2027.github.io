@@ -46,6 +46,6 @@ year/ 4th semester after consultation with their respective programme directors.
 
 On the Intranet <a href="https://intra.zhaw.ch/departemente/school-of-engineering/international/summer-schools" target="_blank" rel="noopener noreferrer">Summer School 2027 information and registration</a>
 
-Have a look at the <a href="assets/images/Infosheet_GVSU Summer School_2026_.pdf" target="_blank" rel="noopener noreferrer">Informationsheet</a> (2026 version, the 2027 version will follow)
+Have a look at the <a href="assets/images/Infosheet_GVSU Summer School_2027_.pdf" target="_blank" rel="noopener noreferrer">Informationsheet</a>
 
 ![Impression2](/assets/images/2024_GVSU.png)
