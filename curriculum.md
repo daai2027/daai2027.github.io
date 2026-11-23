@@ -31,7 +31,7 @@ The 2027 programme will be similar to the 2025 edition. Please find the programm
 
 ### Week 2: Machine Learning (ZHAW), lecturers Dr. Manuel Dömer and Dr. Andreas Weiler
 
-|        |Mon 12.7|Tue 13.7|Wen 14.7|Thu 15.7|Fri 16.7|Sat 17.7|Sun 18.7|
+|        |Mon 12.7|Tue 13.7|Wed 14.7|Thu 15.7|Fri 16.7|Sat 17.7|Sun 18.7|
 |--------|---------|--------|-------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Lecture in Machine Learning: Regression, Classification and Evaluation | *Lecture*: Lecture Association Rules and Recommender Systems |*Data Science Project*: Project work |*Data Science Project*: Project work|Full day excursion to Berne incl. visit of the [federal parliament building](https://www.parlament.ch/en/%C3%BCber-das-parlament/parliament-building)|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA|
 |**Afternoon**|*Unsupervised Learning*: Clustering, Anomaly Detection and Evaluation|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project work in groups and individual supervision|*Data Science Project*: Project presentations and discussions|Full day excursion to [Berne](https://www.bern.com/en/home) incl visit of the federal parliament building|Transfer to Allendale, Michigan, USA |Transfer to Allendale, Michigan, USA |
@@ -41,14 +41,14 @@ The 2027 programme will be similar to the 2025 edition. Please find the programm
 
 ### Week 3: Deep Learning (GVSU), lecturer Dr. Denton Bobeldyk 
 
-|        |Mon 19.7|Tue 20.7|Wen 21.7|Thu 22.7|Fri 23.7|Sat 24.7|
+|        |Mon 19.7|Tue 20.7|Wed 21.7|Thu 22.7|Fri 23.7|Sat 24.7|
 |--------|---------|--------|-------|-------|-------|-------|
 |**Morning**|*Lecture*: Convolutional Neural Networks, Deep learning intro, *Group Lab*|*Lecture*: Deep learning Digital Image Processing *Group Lab*|*Lecture*: Deep Learning Dimensionality Reduction and Autoencoders *Group Lab*|*Lecture*: LLMs and the future of AI |Excursion to [Meijer Gardens Tour](https://www.meijergardens.org/plan/groups-and-tours/)|Grand Haven Beach Excursion|
 |**Afternoon**|Lab/Final project work |Lab/Final project work|Lab/Final project work|Lab/Final project work|[Gilmore Car Museum](https://gilmorecarmuseum.org/), dinner at [Kalamazoo Blues Fest 2025](https://kvba.org/kalamazoo-blues-fest-2025/) |6 pm: Grand Rapids Soccer Club vs. Tulip City|
 
 ### Week 4: Information Visualization (GVSU), lecturer Prof. Ira Woodring
 
-|        |Mon 26.7|Tue 27.7|Wen 28.7|Thu 29.7|Fri 30.7|Sat 31.7|
+|        |Mon 26.7|Tue 27.7|Wed 28.7|Thu 29.7|Fri 30.7|Sat 31.7|
 |--------|---------|--------|-------|-------|-------|---------|
 |**Morning**|*Lecture*: Introduction to Data Vis including the libraries we will use|*Lecture*: Design Principles and Best Practices|*Lecture*: Design Principles and Best Practices|*Lecture*: User-Centered Design|Excursion to [Chicago](https://www.chicago.gov/city/en.html)|Free Time in Chicago and closure of summer school|
 |**Afternoon**|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work|Information Visualization Lab/Final Project Work: Project presentations, evaluation, celebration|Free time in Chicago and  overnight stay at [Chicago Hostel-International](https://hihostels.com/hostels/hi-chicago/)|
